@@ -12,6 +12,7 @@ RUN apt-get update && \
         ca-certificates \
         curl \
         unzip \
+        git \
         dirmngr \
         fonts-noto-cjk \
         gnupg \
